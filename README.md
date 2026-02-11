@@ -1,2 +1,2 @@
 # hello-world-c
-primeiro passo de muitos na enenharia da computaçäo
+primeiro passo de muitos na engenharia da computaçäo
